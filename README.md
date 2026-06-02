@@ -15,4 +15,4 @@ A healthcare analytics project designed to explore clinical datasets and identif
 * **Data Exploration:** Correlation mapping using advanced distributions.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview] (dashboard.png)
